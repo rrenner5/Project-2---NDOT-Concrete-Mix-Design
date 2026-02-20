@@ -6,7 +6,7 @@ The repository contains files and information on the CIVE 202 Project #2 - Concr
 
   This repository includes the following files:
   
-  [NDOT Excel Template](AirQuality_Daily_StudentVersion.csv)
+  [NDOT Excel Template](CIVE202_Spring2026_Group3_Project2_NDOTMixDesign.xlsx)
   
   [Python Code](CIVE202_Spring2026_Group3_Project2_ConcreteMixDesign.ipynb)
   
