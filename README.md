@@ -8,7 +8,7 @@ The repository contains files and information on the CIVE 202 Project #2 - Concr
   
   [NDOT Excel Template](AirQuality_Daily_StudentVersion.csv)
   
-  [Python Code](CIVE202_Spring2026_RyleeRenner_Project1_CodedTasks.ipynb)
+  [Python Code](CIVE202_Spring2026_Group3_Project2_ConcreteMixDesign.ipynb)
   
   [Scope of Work](CIVE202_Spring2025_RyleeRenner_Project1_SOW.docx)
   
